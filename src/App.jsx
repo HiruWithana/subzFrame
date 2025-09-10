@@ -17,11 +17,6 @@ import car2 from "./assets/cars/car4.png";
 import car5 from "./assets/cars/car5.png";
 import car6 from "./assets/cars/car6.png";
 
-
-import f2 from "./assets/F1/f12.png";
-import f3 from "./assets/F1/f13.png";
-import f4 from "./assets/F1/f14.png";
-
 import frame1 from "./assets/frames/frame1.webp";
 import frame2 from "./assets/frames/frame2.webp";
 import frame3 from "./assets/frames/frame3.webp";
