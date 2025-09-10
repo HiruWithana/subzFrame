@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Porschav3";
+  src: url("./assets/font/speed.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Create a reusable class */
+.font-porschav3 {
+  font-family: "Porschav3", sans-serif;
+}
+
+/* In your CSS file */
+.custom-pagination .swiper-pagination-bullet {
+  width: p8x; /* size of bullet */
+  height: 8px;
+  border-radius: 0; /* makes it square */
+  background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  opacity: 0.7;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  background: blue; /* active bullet color */
+  opacity: 1;
+}
