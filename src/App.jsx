@@ -103,57 +103,6 @@ const cars = [
   },
 ];
 
-const f1Cars = [
-  {
-    id: 1,
-    name: "Ferrari F40",
-    model: "Classic Red",
-    price: "$180",
-    scale: "1:18",
-    year: 1990,
-    manufacturer: "Ferrari",
-    production: "F40",
-    engine: "V8 Twin-Turbo",
-    image: f1,
-  },
-  {
-    id: 2,
-    name: "Porsche 911 GT3 RS",
-    model: "Track Edition",
-    price: "$140",
-    scale: "1:24",
-    year: 2020,
-    manufacturer: "Porsche",
-    production: "911 GT3 RS",
-    engine: "4.0L Flat-6",
-    image: f2,
-  },
-  {
-    id: 3,
-    name: "Lamborghini Aventador",
-    model: "SVJ Roadster",
-    price: "$150",
-    scale: "1:12",
-    year: 2023,
-    manufacturer: "Lamborghini",
-    production: "Aventador SVJ",
-    engine: "V12",
-    image: f3,
-  },
-  {
-    id: 4,
-    name: "Ford Mustang Shelby GT500",
-    model: "Heritage Edition",
-    price: "$110",
-    scale: "1:18",
-    year: 2019,
-    manufacturer: "Ford",
-    production: "Mustang Shelby GT500",
-    engine: "V8 Turbo",
-    image: f4,
-  },
-];
-
 const frames = [
   {
     id: 1,
