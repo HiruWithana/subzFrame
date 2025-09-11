@@ -1,7 +1,6 @@
 import React from "react";
 import NavBar from "./Navbar";
 import heroBg from "./assets/gtr.png";
-import carHero from "./assets/heroBg.png";
 import back from "./assets/back.jpg";
 import side from "./assets/side.jpg";
 import side2 from "./assets/side2.jpg";
@@ -16,12 +15,6 @@ import car3 from "./assets/cars/car3.png";
 import car2 from "./assets/cars/car4.png";
 import car5 from "./assets/cars/car5.png";
 import car6 from "./assets/cars/car6.png";
-
-import frame1 from "./assets/frames/frame1.webp";
-import frame2 from "./assets/frames/frame2.webp";
-import frame3 from "./assets/frames/frame3.webp";
-import frame4 from "./assets/frames/frame4.webp";
-import frame5 from "./assets/frames/frame5.webp";
 
 import carGTR from "./assets/cars/lambo.png";
 import yellow from "./assets/cars/f1.png";
@@ -100,34 +93,6 @@ const cars = [
     production: "911 GT3 RS",
     engine: "4.0L Flat-6",
     image: car6,
-  },
-];
-
-const frames = [
-  {
-    id: 1,
-    name: "GTR",
-    image: frame1,
-  },
-  {
-    id: 2,
-    name: "GTR",
-    image: frame2,
-  },
-  {
-    id: 3,
-    name: "GTR",
-    image: frame3,
-  },
-  {
-    id: 4,
-    name: "GTR",
-    image: frame4,
-  },
-  {
-    id: 5,
-    name: "GTR",
-    image: frame5,
   },
 ];
 
